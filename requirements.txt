@@ -1,0 +1,17 @@
+supervision
+roboflow
+ipykernel
+ultralytics
+requests
+ipython
+huggingface_hub
+pytube
+numpy
+moviepy
+# Add PyTorch packages from the specific index URL
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+# YOLOv10 installation
+git+https://github.com/THU-MIG/yolov10.git
